@@ -17,7 +17,7 @@ namespace Uppgift3_14
 
                 if (ålder <= 22 && ålder >= 18)
                 {
-                    Console.WriteLine("Vi skulle vilja anställa dig.");
+                    Console.WriteLine("Vi skulle vilja anställa dig.");   // Jfdhsofj
                 }
 
                 else
